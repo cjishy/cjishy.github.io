@@ -86,11 +86,11 @@ a:hover {
     background-image: linear-gradient(to right, rgba(0, 162, 255, 0.4), rgba(255, 0, 255, 0.2)), url(../images/bg1.jpg);
 }
 
-.swiper-container-lovexhj1 {
+.swiper-container-loveshy {
     width: 550px;
 }
 
-.page1-lovexhj1 img {
+.page1-loveshy img {
     width: 100px;
     border-radius: 50%;
     margin-bottom: 20px;
@@ -322,7 +322,7 @@ img {
         padding-top: 150px;
     }
 
-    .swiper-container-lovexhj1 {
+    .swiper-container-loveshy {
         width: 400px;
         height: 500px;
     }
@@ -413,16 +413,16 @@ img {
         padding-top: 150px;
     }
 
-    .swiper-container-lovexhj1 {
+    .swiper-container-loveshy {
         width: 90%;
         height: 500px;
     }
 
-    .page1-lovexhj1 {
+    .page1-loveshy {
         font-size: 15px;
     }
 
-    .page1-lovexhj1 img {
+    .page1-loveshy img {
         width: 70px;
     }
 
